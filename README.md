@@ -49,4 +49,4 @@ This project was created to practice:
 ---
 
 *References will be furnished upon request.*
-https://github.com/anthonyleoking-devlop/Single-PageCV-Project-
+file:///G:/Web%20Projects/Single%20Page%20CV/Single%20Page%20Cv.html
