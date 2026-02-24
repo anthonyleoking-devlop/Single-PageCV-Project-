@@ -49,4 +49,4 @@ This project was created to practice:
 ---
 
 *References will be furnished upon request.*
-file:///G:/Web%20Projects/Single%20Page%20CV/Single%20Page%20Cv.html
+
